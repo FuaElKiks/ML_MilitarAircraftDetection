@@ -9,5 +9,6 @@ Para que el modelo funcione, es necesario descargar y tener en el mismo director
 Usamos un pequeño for para que se usen dos modelos (iban a ser mas pero por tiempo y capacidad tuvieron que ser dos), que son entrenados en la detección de 81 tipos diferentes de aviones militares.
 
 Resultado final: Una simple aplicación donde puedes arrastrar una imagen y te devuelve el tipo de avión predicho con su porcentaje de seguridad por cada uno de los dos modelos.
-
+### Importante:
+Los modelos .h5, debido a su peso no han podido ser subidos a github (525mb), pero compilando el notebook se guardan automaticamente
 Nota: Posibilidad de implementar efficientnet desde el mismo codigo descomentando.
