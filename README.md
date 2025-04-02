@@ -10,5 +10,7 @@ Usamos un pequeño for para que se usen dos modelos (iban a ser mas pero por tie
 
 Resultado final: Una simple aplicación donde puedes arrastrar una imagen y te devuelve el tipo de avión predicho con su porcentaje de seguridad por cada uno de los dos modelos.
 ### Importante:
-Los modelos .h5, debido a su peso no han podido ser subidos a github (525mb), pero compilando el notebook se guardan automaticamente
+Los modelos .h5, debido a su peso, no han podido ser subidos a github (525mb), pero compilando el notebook se guardan automaticamente
+
+
 Nota: Posibilidad de implementar efficientnet desde el mismo codigo descomentando.
